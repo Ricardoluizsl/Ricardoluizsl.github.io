@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(167, 190, 211);
+}
+
+h1{
+    font-family: monospace;
+    color: darkgoldenrod;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+body{
+    font-family: helvetica;
+}
+
+.image{
+    border-radius: 10%;
+}
+
+.origin {
+    
+}
+
+.commitment{
+    font-size: 20px;
+}
+
+.empathy{
+    font-size: 17px;
+}
+
+.flexibility{
+    font-size: 15px;
+}
+
+.JS{
+    font-size: 20px;
+}
+
+.HTML{
+    font-size: 18px;
+}
+.CSS{
+    font-size: 15px;
+}
+
+</style>
+
