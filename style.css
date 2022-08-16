@@ -49,6 +49,6 @@ div{
     border: 2px solid green;
 }
 
-ul.skills:nth-child(){
+ul.skills li:nth-child(odd){
     color: brown;
 }
