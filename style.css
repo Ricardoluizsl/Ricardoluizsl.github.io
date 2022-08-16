@@ -1,22 +1,21 @@
 body {
     background-color: rgb(167, 190, 211);
+    font-family: helvetica;
 }
 
-h1{
+h1 {
     font-family: monospace;
     color: darkgoldenrod;
 }
 
-p{
+p {
     font-family: sans-serif;
 }
 
-body{
-    font-family: helvetica;
-}
-
-.image{
+.My-Picture {
     border-radius: 10%;
+    float: left;
+
 }
 
 .origin {
@@ -27,24 +26,29 @@ body{
     font-size: 20px;
 }
 
-.empathy{
+.empathy {
     font-size: 17px;
 }
 
-.flexibility{
+.flexibility {
     font-size: 15px;
 }
 
-.JS{
+.JS {
     font-size: 20px;
 }
 
-.HTML{
+.HTML {
     font-size: 18px;
 }
-.CSS{
+.CSS {
     font-size: 15px;
 }
 
-</style>
+div{
+    border: 2px solid green;
+}
 
+ul.skills:nth-child(){
+    color: brown;
+}
